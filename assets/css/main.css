@@ -764,7 +764,7 @@
 		}
 
 		#bg {
-			background-size: 1500px auto;
+			background-size: 2000px auto;
 			width: 4500px;
 		} }
 
@@ -841,12 +841,12 @@
 				-moz-transform: translate3d(-750px,0,0);
 				-webkit-transform: translate3d(-750px,0,0);
 				-ms-transform: translate3d(-750px,0,0);
-				transform: translate3d(-750px,0,0);
+				transform: translate3d(-750px,0,0); 
 			}
 		}
 
 		#bg {
-			background-size: 750px auto;
+			background-size: 2000px auto;
 			width: 2250px;
 		} }
 
@@ -932,7 +932,7 @@
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: 2000px auto;
 			width: 900px;
 		}
 
@@ -1030,7 +1030,7 @@
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			background-size: 2000px auto;
 			width: 1237.5px;
 		}
 
